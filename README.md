@@ -53,15 +53,6 @@ Foi realizada análise de performance utilizando o Lighthouse no Chrome DevTools
 - Melhor organização do código
 - Uso de cache via Service Worker (PWA)
 
----
-
-## 📸 Evidências
-
-- 📌 Lighthouse antes: `/lighthouse/before.png`
-- 📌 Lighthouse depois: `/lighthouse/after.png`
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```bash
