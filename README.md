@@ -31,16 +31,16 @@ Aplicação Web Progressiva (PWA) desenvolvida para registro de atividades diár
 Foi realizada análise de performance utilizando o Lighthouse no Chrome DevTools.
 
 ### 🔴 Antes das otimizações
-- Performance: XX
-- Accessibility: XX
-- Best Practices: XX
-- SEO: XX
+- Performance: 100
+- Accessibility: 77
+- Best Practices: 100
+- SEO: 90
 
 ### 🟢 Depois das otimizações
-- Performance: XX
-- Accessibility: XX
-- Best Practices: XX
-- SEO: XX
+- Performance: 100
+- Accessibility: 92
+- Best Practices: 100
+- SEO: 100
 
 ---
 
@@ -76,7 +76,7 @@ Autor
 Kayky Ribeiro
 ---
 
-## 🔥 O que mudou (e por que isso te faz passar)
+O que mudou?
 
 Agora você tem:
 
@@ -84,14 +84,3 @@ Agora você tem:
 ✔️ explicação de melhorias  
 ✔️ evidência obrigatória (prints)  
 ✔️ parte de performance (que estava faltando)  
-
----
-
-## ⚠️ Último detalhe importante
-
-Se você ainda não colocou os prints no GitHub:
-
-Cria essa pasta:
-
-```bash
-/lighthouse
